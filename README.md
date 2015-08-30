@@ -1,2 +1,2 @@
 # generator-marketcloud
-beta generator for the Marketcloud BaaS
+A Yeoman generator (beta) for the Marketcloud BaaS
